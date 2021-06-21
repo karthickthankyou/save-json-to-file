@@ -7,6 +7,8 @@ npm i savejsontofile
 ## Usage
 
 ```javascript
+const { saveJsonToFile } = require('savejsontofile')
+
 saveJsonToFile(
   {
     name: 'Karthick',
